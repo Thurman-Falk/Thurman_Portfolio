@@ -8,5 +8,5 @@ Problem Formulation: Determine the feasibility of computer vision for diagnosing
 ## [Deep Learning Project Street Number Digit Recognition (SVHN)](https://github.com/Thurmos/Thurman_Portfolio/blob/main/Thurman_Falk_High_Code_SVHN_Digit_Recognition.ipynb)
 
 Problem Formulation: The SVHN dataset contains over 600,000 labeled digits cropped from street-level photos created by Google. IDevelop a model to predict the number depicted inside the image by using Artificial or Fully Connected Feed Forward Neural Networks and Convolutional Neural Networks.  
-![](https://github.com/Thurmos/Thurman_Portfolio/blob/main/images/Digit%20Recognition%20Model%20Accuracy.png)
+![](https://github.com/Thurmos/Thurman_Portfolio/blob/main/images/Digit%20Recognition%20Model%20Accuracy.png) ![](https://github.com/Thurmos/Thurman_Portfolio/blob/main/images/Digit%20Recognition%20Heat%20Map.png)
 
