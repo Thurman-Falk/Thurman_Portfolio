@@ -1,7 +1,7 @@
 # Thurman_Portfolio
 My Data Science Portfolio
 
-## [**Capstone Project in Computer Vision: Malaria Detection**](https://github.com/Thurmos/Thurman_Portfolio/blob/main/Thurman_Falk_Notebook_Malaria_Detection_Full_Code.ipynb)
+## [Capstone Project in Computer Vision: Malaria Detection](https://github.com/Thurmos/Thurman_Portfolio/blob/main/Thurman_Falk_Notebook_Malaria_Detection_Full_Code.ipynb)
 
 Problem Formulation: Determine the feasibility of computer vision for diagnosing Malaria. The approach will be to evaluate a number of convolutional neural networks using standard architectures and modeling to see if they have acceptable accuracy. Recommend the best model to use in diagnosing Malaria. 
 ![](https://github.com/Thurmos/Thurman_Portfolio/blob/main/images/Malaria%20Model%20Structure.png) ![](https://github.com/Thurmos/Thurman_Portfolio/blob/main/images/Malaria%20CF.png)
