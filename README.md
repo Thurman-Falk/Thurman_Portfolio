@@ -11,3 +11,7 @@ Problem Formulation: Determine the feasibility of computer vision for diagnosing
 Problem Formulation: The SVHN dataset contains over 600,000 labeled digits cropped from street-level photos created by Google. Develop a model to predict the number depicted inside the image by using Artificial or Fully Connected Feed Forward Neural Networks and Convolutional Neural Networks.  
 ![](https://github.com/Thurmos/Thurman_Portfolio/blob/main/images/Digit%20Recognition%20Model%20Accuracy.png) ![](https://github.com/Thurmos/Thurman_Portfolio/blob/main/images/Digit%20Recognition%20Heat%20Map.png)
 
+## [Foodhub Exploratory Data Analysis and Visualization](https://github.com/Thurman-Falk/Thurman_Portfolio/blob/main/FDS_Project_LearnerNotebook_FullCode.ipynb)
+Problem Formulation: Perform exploratory data analysis EDA and data visualization to help Foodhub a food delivery app in New York make strategic improvements to increase sales.
+![](https://github.com/Thurman-Falk/Thurman_Portfolio/blob/main/images/Food%20Data%20EDA.png)
+
