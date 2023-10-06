@@ -15,3 +15,6 @@ Problem Formulation: The SVHN dataset contains over 600,000 labeled digits cropp
 Problem Formulation: Perform exploratory data analysis EDA and data visualization to help Foodhub a food delivery app in New York make strategic improvements to increase sales.
 ![](https://github.com/Thurman-Falk/Thurman_Portfolio/blob/main/images/Food%20Data%20EDA.png)
 
+## [SuperKart Machine Learning Linear Regression Model](https://github.com/Thurman-Falk/Thurman_Portfolio/blob/main/SuperKart_Linear_Regression.ipynb)
+Problem Formulation:  Use EDA and machine learning with a linear regression model to predict store sales.  Cross validation was performed to increase model accuracy and the assumptions of linear regression were verified. The linear regression model achieved an R squared of 0.82.
+
