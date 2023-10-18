@@ -18,3 +18,5 @@ Problem Formulation: Perform exploratory data analysis EDA and data visualizatio
 ## [SuperKart Machine Learning Linear Regression Model](https://github.com/Thurman-Falk/Thurman_Portfolio/blob/main/SuperKart_Linear_Regression.ipynb)
 Problem Formulation:  Use EDA and machine learning with a linear regression model to predict store sales.  Cross validation was performed to increase model accuracy and the assumptions of linear regression were verified. The linear regression model achieved an R squared of 0.82.
 
+## [Hotel Cancellation Machine Learning Classification](https://github.com/Thurman-Falk/Thurman_Portfolio/blob/main/SuperKart_Linear_Regression.ipynb)
+Problem Formulation:  Use EDA and a machine learning classification models to predict whether a guest is going to cancel their booking.  Decision trees and random forest models were tested with hyperparameter tuning to reduce overfitting. The best classification model which was a decision tree achieved a recall of 0.84.
