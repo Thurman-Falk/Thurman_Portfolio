@@ -20,3 +20,4 @@ Problem Formulation:  Use EDA and machine learning with a linear regression mode
 
 ## [Hotel Cancellation Machine Learning Classification](https://github.com/Thurman-Falk/Thurman_Portfolio/blob/main/Hotel_Booking_Cancellation_Prediction.ipynb)
 Problem Formulation:  Use EDA and a machine learning classification models to predict whether a guest is going to cancel their booking.  Decision trees and random forest models were tested with hyperparameter tuning to reduce overfitting. The best classification model which was a decision tree achieved a recall of 0.84.
+![](https://github.com/Thurman-Falk/Thurman_Portfolio/blob/main/images/Hotel%20Cancellation%20Factor%20Importance.png)
