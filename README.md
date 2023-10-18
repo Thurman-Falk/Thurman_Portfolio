@@ -19,5 +19,5 @@ Problem Formulation: Perform exploratory data analysis EDA and data visualizatio
 Problem Formulation:  Use EDA and machine learning with a linear regression model to predict store sales.  Cross validation was performed to increase model accuracy and the assumptions of linear regression were verified. The linear regression model achieved an R squared of 0.82.
 
 ## [Hotel Cancellation Machine Learning Classification](https://github.com/Thurman-Falk/Thurman_Portfolio/blob/main/Hotel_Booking_Cancellation_Prediction.ipynb)
-Problem Formulation:  Use EDA and machine learning classification models to predict whether a guest is going to cancel their booking.  Decision trees and random forest models were tested with hyperparameter tuning to reduce overfitting. The best classification model which was a decision tree achieved a recall of 0.84.
+Problem Formulation:  Use EDA and machine learning classification models to predict whether a guest is going to cancel their booking.  Decision trees and random forest models were tested with hyperparameter tuning to reduce overfitting. The best classification model was a decision tree, which achieved a recall of 84%.
 ![](https://github.com/Thurman-Falk/Thurman_Portfolio/blob/main/images/Hotel%20Cancellation%20Factor%20Importance.png)
