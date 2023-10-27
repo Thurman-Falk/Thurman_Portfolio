@@ -21,3 +21,6 @@ Problem Formulation:  Use EDA and machine learning with a linear regression mode
 ## [Hotel Cancellation Machine Learning Classification](https://github.com/Thurman-Falk/Thurman_Portfolio/blob/main/Hotel_Booking_Cancellation_Prediction.ipynb)
 Problem Formulation:  Use EDA and machine learning classification models to predict whether a guest is going to cancel their booking.  Decision trees and random forest models were tested with hyperparameter tuning to reduce overfitting. The best classification model was a decision tree, which achieved a recall of 84%.
 ![](assets/img/Hotel%20Cancellation%20Factor%20Importance.png)
+
+## [Relative Retention Time Table Generator App](https://github.com/Thurman-Falk/Thurman_Portfolio/blob/main/RRT_Generator_App.ipynb)
+Problem Formulation: Tables need to be compiled for chromatography data that relate the size of an impurity to the active pharmaceutical ingredient. Additionally, the time the impurity is observed can vary, so it is reported by time relative to the acitve ingredient, this is a reliable indicator.  The App automatically calculates percent area and relative retention time for every impurity, and then makes a table that has percent areas aligned by the relative retention time.  The App can easily save an analyst 6 hours of work each utilzation.
