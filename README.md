@@ -24,3 +24,5 @@ Problem Formulation:  Use EDA and machine learning classification models to pred
 
 ## [Relative Retention Time Table Generator App](https://github.com/Thurman-Falk/Thurman_Portfolio/blob/main/RRT_Generator_App.ipynb)
 Problem Formulation: Tables need to be compiled for chromatography data that relate the size of an impurity to the active pharmaceutical ingredient. Additionally, the time the impurity is observed can vary, so it is reported by time relative to the acitve ingredient, this is a reliable indicator.  The App automatically calculates percent area and relative retention time for every impurity, and then makes a table that has percent areas aligned by the relative retention time.  The App can easily save an analyst 6 hours of work each utilzation.
+
+The Application makes advanced use of Pandas and Numpy, as well as custom functions.  Tkinter GUI is used to build the user interface so the application may be helpful to scientists unfamiliar with coding.
